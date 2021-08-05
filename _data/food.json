@@ -1,0 +1,1241 @@
+[{
+    "_id": "60db72b23215fc20b06f9f3d",
+    "foodCategory": "Bakery",
+    "foodName": "Sainsburys Taste the Difference Multiseed Loaf",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 37.4
+},
+{
+    "_id": "60db72db3215fc20b06f9f3f",
+    "foodCategory": "Bakery",
+    "foodName": "Mr Kiplings Bakewell Tart",
+    "weightUnit": "Grams",
+    "weight": 38,
+    "carbohydrates": 23.5
+},
+{
+    "_id": "60db72ee3215fc20b06f9f41",
+    "foodCategory": "Bakery",
+    "foodName": "Baklava",
+    "weightUnit": "Grams",
+    "weight": 20,
+    "carbohydrates": 11
+},
+{
+    "_id": "60db731c3215fc20b06f9f43",
+    "foodCategory": "Bakery",
+    "foodName": "Sainsburys Taste the Difference Carrot Cake",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 52.9
+},
+{
+    "_id": "60db735c3215fc20b06f9f45",
+    "foodCategory": "Bakery",
+    "foodName": "Mary Berrys Indulgent Chocolate Cake",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 52.7
+},
+{
+    "_id": "60db73773215fc20b06f9f47",
+    "foodCategory": "Bakery",
+    "foodName": "Coffee and Walnut Cake",
+    "weightUnit": "Grams",
+    "weight": 50,
+    "carbohydrates": 27
+},
+{
+    "_id": "60db73963215fc20b06f9f49",
+    "foodCategory": "Bakery",
+    "foodName": "Mr Kipling Manor House Cake",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 49.3
+},
+{
+    "_id": "60db73b53215fc20b06f9f4b",
+    "foodCategory": "Bakery",
+    "foodName": "McVities Jamaica Ginger Cake",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 61.3
+},
+{
+    "_id": "60db73ce3215fc20b06f9f4d",
+    "foodCategory": "Bakery",
+    "foodName": "Sainsburys Bagels Plain White",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 52.1
+},
+{
+    "_id": "60db73ea3215fc20b06f9f4f",
+    "foodCategory": "Bakery",
+    "foodName": "Hovis Medium Sliced Wholemeal Bread",
+    "weightUnit": "Grams",
+    "weight": 40,
+    "carbohydrates": 15.1
+},
+{
+    "_id": "60db745c3215fc20b06f9f51",
+    "foodCategory": "Bakery",
+    "foodName": "Old El Paso Regular Soft Flour Tortilla Wraps",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 53.2
+},
+{
+    "_id": "60db747a3215fc20b06f9f53",
+    "foodCategory": "Bakery",
+    "foodName": "Sainsburys White Finger Rolls",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 47.3
+},
+{
+    "_id": "6101b82530de361ae4956215",
+    "foodCategory": "Bakery",
+    "foodName": "Sainsburys Crusty White Baguette",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 55.2
+},
+{
+    "_id": "61027e5ce2fec84af891aa1f",
+    "foodCategory": "Bakery",
+    "foodName": "Sainsburys Vanilla Doughnuts",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 45.2
+},
+{
+    "_id": "60db76d9297b2407a002c3f6",
+    "foodCategory": "Biscuits",
+    "foodName": "McVities Milk Chocolate Digestives",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 62.5
+},
+{
+    "_id": "60db7708297b2407a002c3f8",
+    "foodCategory": "Biscuits",
+    "foodName": "McVities Digestive Biscuits",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 63.6
+},
+{
+    "_id": "60db7721297b2407a002c3fa",
+    "foodCategory": "Biscuits",
+    "foodName": "Oreo Original Sandwich Biscuits",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 68
+},
+{
+    "_id": "60db7742297b2407a002c3fc",
+    "foodCategory": "Biscuits",
+    "foodName": "McVities Ginger Nut Biscuits",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 71.3
+},
+{
+    "_id": "60db7760297b2407a002c3fe",
+    "foodCategory": "Biscuits",
+    "foodName": "Foxs Jam Ring Creams Biscuit",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 66
+},
+{
+    "_id": "60db777c297b2407a002c400",
+    "foodCategory": "Biscuits",
+    "foodName": "Lotus Biscoff Caramelised Biscuits",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 72.6
+},
+{
+    "_id": "60db779c297b2407a002c402",
+    "foodCategory": "Biscuits",
+    "foodName": "McVities Fruit Shortcake Biscuits",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 65.9
+},
+{
+    "_id": "60db77b6297b2407a002c404",
+    "foodCategory": "Biscuits",
+    "foodName": "Sainsburys Garibaldi Biscuits",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 68.5
+},
+{
+    "_id": "60db77d0297b2407a002c406",
+    "foodCategory": "Biscuits",
+    "foodName": "Sainsburys Nice Biscuits",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 64.2
+},
+{
+    "_id": "60db77ec297b2407a002c408",
+    "foodCategory": "Biscuits",
+    "foodName": "Chunkie Half Coated Chocolate Cookies",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 62.7
+},
+{
+    "_id": "60db7806297b2407a002c40a",
+    "foodCategory": "Biscuits",
+    "foodName": "McVities HobNobs Milk Chocolate Biscuits",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 61.4
+},
+{
+    "_id": "6101b960cb97a504f8f3e498",
+    "foodCategory": "Biscuits",
+    "foodName": "KitKat 2 Finger Milk Chocolate Biscuit Bar",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 62.3
+},
+{
+    "_id": "61027ec1e2fec84af891aa24",
+    "foodCategory": "Biscuits",
+    "foodName": "Lovetts Digestive Biscuits",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 65.9
+},
+{
+    "_id": "60db7a272ed6c04804eb3f9d",
+    "foodCategory": "Breakfast",
+    "foodName": "Dorset Cereals Simply Oat Granola",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 58.7
+},
+{
+    "_id": "60db7a372ed6c04804eb3f9f",
+    "foodCategory": "Breakfast",
+    "foodName": "Kelloggs Corn Flakes",
+    "weightUnit": "Grams",
+    "weight": 30,
+    "carbohydrates": 25
+},
+{
+    "_id": "60db7a422ed6c04804eb3fa1",
+    "foodCategory": "Breakfast",
+    "foodName": "Kelloggs Crunchy Nut Corn Flakes",
+    "weightUnit": "Grams",
+    "weight": 30,
+    "carbohydrates": 25
+},
+{
+    "_id": "60db7a4e2ed6c04804eb3fa3",
+    "foodCategory": "Breakfast",
+    "foodName": "Scotts Porage Original Porridge Oats",
+    "weightUnit": "Grams",
+    "weight": 40,
+    "carbohydrates": 37
+},
+{
+    "_id": "60db7a582ed6c04804eb3fa5",
+    "foodCategory": "Breakfast",
+    "foodName": "Cheerios Multigrain",
+    "weightUnit": "Grams",
+    "weight": 30,
+    "carbohydrates": 21.4
+},
+{
+    "_id": "60db7a652ed6c04804eb3fa7",
+    "foodCategory": "Breakfast",
+    "foodName": "Kelloggs Krave Milk Chocolate Cereal",
+    "weightUnit": "Grams",
+    "weight": 30,
+    "carbohydrates": 21
+},
+{
+    "_id": "60db7a702ed6c04804eb3fa9",
+    "foodCategory": "Breakfast",
+    "foodName": "Kelloggs Rice Krispies",
+    "weightUnit": "Grams",
+    "weight": 30,
+    "carbohydrates": 26
+},
+{
+    "_id": "60db7a7c2ed6c04804eb3fab",
+    "foodCategory": "Breakfast",
+    "foodName": "Alara Organic Crispy Fruit Muesli",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 67
+},
+{
+    "_id": "60db7a862ed6c04804eb3fad",
+    "foodCategory": "Breakfast",
+    "foodName": "Shreddies The Original",
+    "weightUnit": "Grams",
+    "weight": 40,
+    "carbohydrates": 28
+},
+{
+    "_id": "60db7a912ed6c04804eb3faf",
+    "foodCategory": "Breakfast",
+    "foodName": "Honey Monster Wheat Puffs",
+    "weightUnit": "Grams",
+    "weight": 30,
+    "carbohydrates": 22
+},
+{
+    "_id": "60db7a9c2ed6c04804eb3fb1",
+    "foodCategory": "Breakfast",
+    "foodName": "Kelloggs Coco Pops Rocks",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 75
+},
+{
+    "_id": "6101bb8e626115150c611674",
+    "foodCategory": "Breakfast",
+    "foodName": "Belvita Breakfast Milk and Cereal Multipack",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 66
+},
+{
+    "_id": "60db7dbe40952c3c7c82c168",
+    "foodCategory": "Desserts",
+    "foodName": "Mr Kipling Bramley Apple Pies",
+    "weightUnit": "Grams",
+    "weight": 59,
+    "carbohydrates": 32.8
+},
+{
+    "_id": "60db821e40952c3c7c82c16a",
+    "foodCategory": "Desserts",
+    "foodName": "The Gluten Free Kitchen Apple Crumble",
+    "weightUnit": "Grams",
+    "weight": 180,
+    "carbohydrates": 72.5
+},
+{
+    "_id": "60db822940952c3c7c82c16c",
+    "foodCategory": "Desserts",
+    "foodName": "Sainsburys Banoffee Pie",
+    "weightUnit": "Grams",
+    "weight": 83,
+    "carbohydrates": 29.6
+},
+{
+    "_id": "60db823340952c3c7c82c16e",
+    "foodCategory": "Desserts",
+    "foodName": "Sainsburys Bread and Butter Pudding",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 26.9
+},
+{
+    "_id": "60db823d40952c3c7c82c170",
+    "foodCategory": "Desserts",
+    "foodName": "Cadbury Chocolate Chip Brownie",
+    "weightUnit": "Grams",
+    "weight": 25,
+    "carbohydrates": 12
+},
+{
+    "_id": "60db828740952c3c7c82c172",
+    "foodCategory": "Desserts",
+    "foodName": "Aero Milk Chocolate Mousse ",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 23.1
+},
+{
+    "_id": "60db829240952c3c7c82c174",
+    "foodCategory": "Desserts",
+    "foodName": "Mr Kipling Treacle Tart",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 63.5
+},
+{
+    "_id": "60db829d40952c3c7c82c176",
+    "foodCategory": "Desserts",
+    "foodName": "Ambrosia Rice Pudding",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 16.3
+},
+{
+    "_id": "60db82a740952c3c7c82c178",
+    "foodCategory": "Desserts",
+    "foodName": "Carte DOr Classic Vanilla Ice Cream",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 29
+},
+{
+    "_id": "60db82dc40952c3c7c82c17a",
+    "foodCategory": "Desserts",
+    "foodName": "Angel Delight Butterscotch Flavour Dessert",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 16.2
+},
+{
+    "_id": "60db851a9e8f6c356c056c38",
+    "foodCategory": "Drinks",
+    "foodName": "Cappuccino with whole milk",
+    "weightUnit": "ml",
+    "weight": 235,
+    "carbohydrates": 8
+},
+{
+    "_id": "60db85259e8f6c356c056c3a",
+    "foodCategory": "Drinks",
+    "foodName": "Hot Chocolate with whole milk",
+    "weightUnit": "ml",
+    "weight": 235,
+    "carbohydrates": 25
+},
+{
+    "_id": "60db852f9e8f6c356c056c3c",
+    "foodCategory": "Drinks",
+    "foodName": "Hot Chocolate with skimmed milk",
+    "weightUnit": "ml",
+    "weight": 235,
+    "carbohydrates": 26
+},
+{
+    "_id": "60db853a9e8f6c356c056c3e",
+    "foodCategory": "Drinks",
+    "foodName": "Latte with whole milk",
+    "weightUnit": "ml",
+    "weight": 235,
+    "carbohydrates": 9
+},
+{
+    "_id": "60db85429e8f6c356c056c40",
+    "foodCategory": "Drinks",
+    "foodName": "Latte with skimmed milk",
+    "weightUnit": "ml",
+    "weight": 235,
+    "carbohydrates": 10
+},
+{
+    "_id": "60db854b9e8f6c356c056c42",
+    "foodCategory": "Drinks",
+    "foodName": "Coffee with milk",
+    "weightUnit": "ml",
+    "weight": 260,
+    "carbohydrates": 2
+},
+{
+    "_id": "60db85549e8f6c356c056c44",
+    "foodCategory": "Drinks",
+    "foodName": "Tea with milk",
+    "weightUnit": "ml",
+    "weight": 160,
+    "carbohydrates": 2
+},
+{
+    "_id": "60db855e9e8f6c356c056c46",
+    "foodCategory": "Drinks",
+    "foodName": "Ale",
+    "weightUnit": "ml",
+    "weight": 284,
+    "carbohydrates": 9
+},
+{
+    "_id": "60db856c9e8f6c356c056c48",
+    "foodCategory": "Drinks",
+    "foodName": "Cider dry",
+    "weightUnit": "ml",
+    "weight": 284,
+    "carbohydrates": 7
+},
+{
+    "_id": "60db85749e8f6c356c056c4a",
+    "foodCategory": "Drinks",
+    "foodName": "Lemonade",
+    "weightUnit": "ml",
+    "weight": 150,
+    "carbohydrates": 9
+},
+{
+    "_id": "6101bd18b16a4516805b2ff1",
+    "foodCategory": "Drinks",
+    "foodName": "Shloer White Grape Sparkling Juice Drink",
+    "weightUnit": "ml",
+    "weight": 100,
+    "carbohydrates": 4.8
+},
+{
+    "_id": "60db87650817883cfcc43f07",
+    "foodCategory": "Fruit",
+    "foodName": "Apricot",
+    "weightUnit": "Grams",
+    "weight": 55,
+    "carbohydrates": 4
+},
+{
+    "_id": "60db876f0817883cfcc43f09",
+    "foodCategory": "Fruit",
+    "foodName": "Apple",
+    "weightUnit": "Grams",
+    "weight": 85,
+    "carbohydrates": 9
+},
+{
+    "_id": "60db87780817883cfcc43f0b",
+    "foodCategory": "Fruit",
+    "foodName": "Blackberries",
+    "weightUnit": "Grams",
+    "weight": 80,
+    "carbohydrates": 4
+},
+{
+    "_id": "60db87830817883cfcc43f0d",
+    "foodCategory": "Fruit",
+    "foodName": "Banana",
+    "weightUnit": "Grams",
+    "weight": 63,
+    "carbohydrates": 13
+},
+{
+    "_id": "60db878d0817883cfcc43f0f",
+    "foodCategory": "Fruit",
+    "foodName": "Blueberries",
+    "weightUnit": "Grams",
+    "weight": 40,
+    "carbohydrates": 4
+},
+{
+    "_id": "60db87980817883cfcc43f11",
+    "foodCategory": "Fruit",
+    "foodName": "Cherries",
+    "weightUnit": "Grams",
+    "weight": 50,
+    "carbohydrates": 6
+},
+{
+    "_id": "60db87a00817883cfcc43f13",
+    "foodCategory": "Fruit",
+    "foodName": "Kiwi",
+    "weightUnit": "Grams",
+    "weight": 55,
+    "carbohydrates": 5
+},
+{
+    "_id": "60db87aa0817883cfcc43f15",
+    "foodCategory": "Fruit",
+    "foodName": "Mango",
+    "weightUnit": "Grams",
+    "weight": 80,
+    "carbohydrates": 11
+},
+{
+    "_id": "60db87b60817883cfcc43f17",
+    "foodCategory": "Fruit",
+    "foodName": "Honeydew Melon",
+    "weightUnit": "Grams",
+    "weight": 80,
+    "carbohydrates": 5
+},
+{
+    "_id": "60db87c00817883cfcc43f19",
+    "foodCategory": "Fruit",
+    "foodName": "Pear",
+    "weightUnit": "Grams",
+    "weight": 104,
+    "carbohydrates": 11
+},
+{
+    "_id": "6101be8c2b41fd08303dbb2e",
+    "foodCategory": "Fruit",
+    "foodName": "Sainsburys Red Seedless Grapes",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 16.2
+},
+{
+    "_id": "60db89a0de23ec1688771095",
+    "foodCategory": "Meat and Fish",
+    "foodName": "Ginsters Cornish Pasty",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 21.1
+},
+{
+    "_id": "60db89abde23ec1688771097",
+    "foodCategory": "Meat and Fish",
+    "foodName": "Bernard Matthews Ham and Cheese Turkey Escalopes",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 17.4
+},
+{
+    "_id": "60db89b7de23ec1688771099",
+    "foodCategory": "Meat and Fish",
+    "foodName": "Birds Eye Garlic and Herb Chicken Kievs",
+    "weightUnit": "Grams",
+    "weight": 152,
+    "carbohydrates": 21
+},
+{
+    "_id": "60db89c3de23ec168877109b",
+    "foodCategory": "Meat and Fish",
+    "foodName": "Birds Eye Cod Fish Cakes Baked",
+    "weightUnit": "Grams",
+    "weight": 99,
+    "carbohydrates": 16
+},
+{
+    "_id": "60db89d1de23ec168877109d",
+    "foodCategory": "Meat and Fish",
+    "foodName": "Birds Eye Cod Fish Fingers Baked",
+    "weightUnit": "Grams",
+    "weight": 112,
+    "carbohydrates": 22
+},
+{
+    "_id": "60db89dcde23ec168877109f",
+    "foodCategory": "Meat and Fish",
+    "foodName": "Youngs Scampi Baked",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 26
+},
+{
+    "_id": "60db89eade23ec16887710a1",
+    "foodCategory": "Meat and Fish",
+    "foodName": "Sainsburys Breaded Fresh British Chicken Goujons Baked",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 18
+},
+{
+    "_id": "60db89f6de23ec16887710a3",
+    "foodCategory": "Meat and Fish",
+    "foodName": "Birds Eye Sausage Rolls Baked",
+    "weightUnit": "Grams",
+    "weight": 92,
+    "carbohydrates": 22
+},
+{
+    "_id": "60db8a03de23ec16887710a5",
+    "foodCategory": "Meat and Fish",
+    "foodName": "Simon Howie Original Haggis In Bag",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 17.6
+},
+{
+    "_id": "60db8a0ede23ec16887710a7",
+    "foodCategory": "Meat and Fish",
+    "foodName": "The Jolly Hog Thick Cut Pork Ribs",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 8.3
+},
+{
+    "_id": "6101bfa10d36c631b8ceb8ce",
+    "foodCategory": "Meat and Fish",
+    "foodName": "Birds Eye Southern Fried Chicken Grills",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 21
+},
+{
+    "_id": "60db8c1a67222e44b42382ac",
+    "foodCategory": "Pasta",
+    "foodName": "Sainsburys Macaroni",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 32.3
+},
+{
+    "_id": "60db8c3767222e44b42382ae",
+    "foodCategory": "Pasta",
+    "foodName": "Sainsburys Farfalle",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 32.3
+},
+{
+    "_id": "60db8c4167222e44b42382b0",
+    "foodCategory": "Pasta",
+    "foodName": "Sainsburys Penne Rigate",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 32.3
+},
+{
+    "_id": "60db8c4c67222e44b42382b2",
+    "foodCategory": "Pasta",
+    "foodName": "Scoiattolo Grilled Vegetables and Pulses Organic Ravioli",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 27
+},
+{
+    "_id": "60db8c5867222e44b42382b4",
+    "foodCategory": "Pasta",
+    "foodName": "Sainsburys Spaghetti",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 32.3
+},
+{
+    "_id": "60db8c6167222e44b42382b6",
+    "foodCategory": "Pasta",
+    "foodName": "Sainsburys Wholewheat Spaghetti",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 29.6
+},
+{
+    "_id": "60db8c6b67222e44b42382b8",
+    "foodCategory": "Pasta",
+    "foodName": "Sainsburys Tagliatelle",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 32.9
+},
+{
+    "_id": "60db8c7767222e44b42382ba",
+    "foodCategory": "Pasta",
+    "foodName": "Sharwoods Medium Egg Noodles",
+    "weightUnit": "Grams",
+    "weight": 145,
+    "carbohydrates": 39.9
+},
+{
+    "_id": "60db8c8167222e44b42382bc",
+    "foodCategory": "Pasta",
+    "foodName": "Sainsburys Rice Noodles",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 33.4
+},
+{
+    "_id": "60db8c8b67222e44b42382be",
+    "foodCategory": "Pasta",
+    "foodName": "Heinz Ravioli In Tomato Sauce",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 12
+},
+{
+    "_id": "6101c03137885f292c9de515",
+    "foodCategory": "Pasta",
+    "foodName": "Sainsburys Fresh Egg Fusilli",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 26.9
+},
+{
+    "_id": "60db8eedb83445095c0d5a68",
+    "foodCategory": "Potatoes",
+    "foodName": "Aunt Bessies Crinkle Cut Chips Baked",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 32
+},
+{
+    "_id": "60db8ef9b83445095c0d5a6a",
+    "foodCategory": "Potatoes",
+    "foodName": "McCain Crispy French Fries",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 35.5
+},
+{
+    "_id": "60db8f04b83445095c0d5a6c",
+    "foodCategory": "Potatoes",
+    "foodName": "Jacket Potato",
+    "weightUnit": "Grams",
+    "weight": 220,
+    "carbohydrates": 47
+},
+{
+    "_id": "60db8f0fb83445095c0d5a6e",
+    "foodCategory": "Potatoes",
+    "foodName": "New Potatoes",
+    "weightUnit": "Grams",
+    "weight": 195,
+    "carbohydrates": 29
+},
+{
+    "_id": "60db8f1ab83445095c0d5a70",
+    "foodCategory": "Potatoes",
+    "foodName": "Mashed Potato with butter",
+    "weightUnit": "Grams",
+    "weight": 120,
+    "carbohydrates": 19
+},
+{
+    "_id": "60db8f27b83445095c0d5a72",
+    "foodCategory": "Potatoes",
+    "foodName": "Potato Slices baked",
+    "weightUnit": "Grams",
+    "weight": 80,
+    "carbohydrates": 23
+},
+{
+    "_id": "60db8f32b83445095c0d5a74",
+    "foodCategory": "Potatoes",
+    "foodName": "Roast Potatoes",
+    "weightUnit": "Grams",
+    "weight": 155,
+    "carbohydrates": 41
+},
+{
+    "_id": "60db8f3eb83445095c0d5a76",
+    "foodCategory": "Potatoes",
+    "foodName": "Sainsburys Potato Salad",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 13.1
+},
+{
+    "_id": "60db8f49b83445095c0d5a78",
+    "foodCategory": "Potatoes",
+    "foodName": "McCain Lightly Spiced Wedges Baked",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 27.2
+},
+{
+    "_id": "60db8f53b83445095c0d5a7a",
+    "foodCategory": "Potatoes",
+    "foodName": "Sainsburys Hash Browns",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 20
+},
+{
+    "_id": "6101c0af9ab4b42c34ea3f8c",
+    "foodCategory": "Potatoes",
+    "foodName": "Sainsburys Sweet Potato Fries",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 37
+},
+{
+    "_id": "60db91575fb51704dcc26c1f",
+    "foodCategory": "Rice",
+    "foodName": "Sainsburys Boil In The Bag Basmati Rice",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 30.7
+},
+{
+    "_id": "60db91635fb51704dcc26c21",
+    "foodCategory": "Rice",
+    "foodName": "Uncle Bens Special Microwave Rice Mexican",
+    "weightUnit": "Grams",
+    "weight": 125,
+    "carbohydrates": 30
+},
+{
+    "_id": "60db916e5fb51704dcc26c23",
+    "foodCategory": "Rice",
+    "foodName": "Uncle Bens Rice and Grains Long Grain and Wild",
+    "weightUnit": "Grams",
+    "weight": 125,
+    "carbohydrates": 38.6
+},
+{
+    "_id": "60db91795fb51704dcc26c25",
+    "foodCategory": "Rice",
+    "foodName": "Sainsburys White Rice",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 30
+},
+{
+    "_id": "60db91835fb51704dcc26c27",
+    "foodCategory": "Rice",
+    "foodName": "Uncle Bens Special Microwave Rice Egg Fried",
+    "weightUnit": "Grams",
+    "weight": 125,
+    "carbohydrates": 35
+},
+{
+    "_id": "60db918d5fb51704dcc26c29",
+    "foodCategory": "Rice",
+    "foodName": "Sainsburys Microwave Rice Thai",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 36.3
+},
+{
+    "_id": "60db91975fb51704dcc26c2b",
+    "foodCategory": "Rice",
+    "foodName": "Uncle Bens Microwave Rice Wholegrain Spicy Mexican",
+    "weightUnit": "Grams",
+    "weight": 125,
+    "carbohydrates": 33
+},
+{
+    "_id": "60db91a45fb51704dcc26c2d",
+    "foodCategory": "Rice",
+    "foodName": "Uncle Bens Classic Microwave Rice Pilau",
+    "weightUnit": "Grams",
+    "weight": 125,
+    "carbohydrates": 39
+},
+{
+    "_id": "60db91ae5fb51704dcc26c2f",
+    "foodCategory": "Rice",
+    "foodName": "Uncle Bens Special Microwave Rice Golden Vegetable",
+    "weightUnit": "Grams",
+    "weight": 125,
+    "carbohydrates": 37
+},
+{
+    "_id": "60db91ba5fb51704dcc26c31",
+    "foodCategory": "Rice",
+    "foodName": "Ainsley Harriott Roasted Vegetable Cous Cous",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 25.5
+},
+{
+    "_id": "6101c16ccb842d2deceb9547",
+    "foodCategory": "Rice",
+    "foodName": "Tilda Steamed Basmati Plain Rice",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 28.2
+},
+{
+    "_id": "60db9631533cc727c8098306",
+    "foodCategory": "Sauces",
+    "foodName": "Nutella Chocolate Spread",
+    "weightUnit": "Grams",
+    "weight": 15,
+    "carbohydrates": 8.6
+},
+{
+    "_id": "60db963c533cc727c8098308",
+    "foodCategory": "Sauces",
+    "foodName": "Hilltop Honey Blossom Honey",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 76
+},
+{
+    "_id": "60db9645533cc727c809830a",
+    "foodCategory": "Sauces",
+    "foodName": "Bonne Maman Strawberry Conserve",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 59
+},
+{
+    "_id": "60db964f533cc727c809830c",
+    "foodCategory": "Sauces",
+    "foodName": "Clarks Pure Maple Syrup",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 66
+},
+{
+    "_id": "60db965d533cc727c809830e",
+    "foodCategory": "Sauces",
+    "foodName": "Frank Coopers Fine Cut Oxford Marmalade Seville Orange",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 61
+},
+{
+    "_id": "60db9666533cc727c8098310",
+    "foodCategory": "Sauces",
+    "foodName": "Sugar",
+    "weightUnit": "Grams",
+    "weight": 15,
+    "carbohydrates": 15
+},
+{
+    "_id": "60db9671533cc727c8098312",
+    "foodCategory": "Sauces",
+    "foodName": "Baxters Chef Selections Bramley Apple Date and Stout Chutney",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 40.3
+},
+{
+    "_id": "60db967b533cc727c8098314",
+    "foodCategory": "Sauces",
+    "foodName": "Heinz Barbecue Classic Sauce",
+    "weightUnit": "Grams",
+    "weight": 15,
+    "carbohydrates": 4.8
+},
+{
+    "_id": "60db9684533cc727c8098316",
+    "foodCategory": "Sauces",
+    "foodName": "HP Squeezy Brown Sauce",
+    "weightUnit": "Grams",
+    "weight": 15,
+    "carbohydrates": 4.2
+},
+{
+    "_id": "60db968d533cc727c8098318",
+    "foodCategory": "Sauces",
+    "foodName": "Ocean Spray Smooth Cranberry Sauce",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 37
+},
+{
+    "_id": "60db9871df644022f8bcc101",
+    "foodCategory": "Snacks",
+    "foodName": "Propercorn Lightly Sea Salted Popcorn",
+    "weightUnit": "Grams",
+    "weight": 20,
+    "carbohydrates": 11.3
+},
+{
+    "_id": "60db987bdf644022f8bcc103",
+    "foodCategory": "Snacks",
+    "foodName": "Butterkist Popcorn Sweet Cinema Style",
+    "weightUnit": "Grams",
+    "weight": 30,
+    "carbohydrates": 20
+},
+{
+    "_id": "60db9886df644022f8bcc105",
+    "foodCategory": "Snacks",
+    "foodName": "Penn State Sea Salted Sharing Pretzels",
+    "weightUnit": "Grams",
+    "weight": 30,
+    "carbohydrates": 23
+},
+{
+    "_id": "60db9891df644022f8bcc107",
+    "foodCategory": "Snacks",
+    "foodName": "Just Snax Tortilla Chips",
+    "weightUnit": "Grams",
+    "weight": 30,
+    "carbohydrates": 19.4
+},
+{
+    "_id": "60db989bdf644022f8bcc109",
+    "foodCategory": "Snacks",
+    "foodName": "Sainsburys All Butter Fudge",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 74
+},
+{
+    "_id": "60db98a3df644022f8bcc10b",
+    "foodCategory": "Snacks",
+    "foodName": "Sainsburys Marshmallows",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 79.9
+},
+{
+    "_id": "60db98aedf644022f8bcc10d",
+    "foodCategory": "Snacks",
+    "foodName": "Cadbury Dairy Milk Chocolate Bar",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 57
+},
+{
+    "_id": "60db98b8df644022f8bcc10f",
+    "foodCategory": "Snacks",
+    "foodName": "Milkybar White Chocolate Bar",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 52.9
+},
+{
+    "_id": "60db98c2df644022f8bcc111",
+    "foodCategory": "Snacks",
+    "foodName": "Maynards Bassetts Jelly Babies",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 78
+},
+{
+    "_id": "60db98cbdf644022f8bcc113",
+    "foodCategory": "Snacks",
+    "foodName": "Sainsburys Mini Jelly Beans Sweets",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 92.9
+},
+{
+    "_id": "60db9b0e607eef14ec197412",
+    "foodCategory": "Soup",
+    "foodName": "Sainsburys Broccoli and Stilton Soup",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 3.9
+},
+{
+    "_id": "60db9b1a607eef14ec197414",
+    "foodCategory": "Soup",
+    "foodName": "Heinz Chicken Noodle Soup",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 6.1
+},
+{
+    "_id": "60db9b25607eef14ec197416",
+    "foodCategory": "Soup",
+    "foodName": "Heinz Chicken and Vegetable Big Soup",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 7.4
+},
+{
+    "_id": "60db9b2f607eef14ec197418",
+    "foodCategory": "Soup",
+    "foodName": "Heinz Cream Of Mushroom Soup",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 5.3
+},
+{
+    "_id": "60db9b3a607eef14ec19741a",
+    "foodCategory": "Soup",
+    "foodName": "Baxters Favourites French Onion Soup",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 3.8
+},
+{
+    "_id": "60db9b49607eef14ec19741c",
+    "foodCategory": "Soup",
+    "foodName": "Heinz Cream of Tomato Soup",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 6.8
+},
+{
+    "_id": "60db9b53607eef14ec19741e",
+    "foodCategory": "Soup",
+    "foodName": "Heinz Cream of Chicken Soup",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 4.9
+},
+{
+    "_id": "60db9b5e607eef14ec197420",
+    "foodCategory": "Soup",
+    "foodName": "Heinz Oxtail Soup",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 7.4
+},
+{
+    "_id": "60db9b68607eef14ec197422",
+    "foodCategory": "Soup",
+    "foodName": "Heinz Minestrone Soup",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 6.2
+},
+{
+    "_id": "60db9b73607eef14ec197424",
+    "foodCategory": "Soup",
+    "foodName": "Heinz Lentil Soup",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 8.5
+},
+{
+    "_id": "60db9d445bc2692c2093e7f9",
+    "foodCategory": "Vegetables and Pulses",
+    "foodName": "Branston Baked Beans",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 12.5
+},
+{
+    "_id": "60db9d4e5bc2692c2093e7fb",
+    "foodCategory": "Vegetables and Pulses",
+    "foodName": "Napolina Butter Beans",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 15.6
+},
+{
+    "_id": "60db9d585bc2692c2093e7fd",
+    "foodCategory": "Vegetables and Pulses",
+    "foodName": "Butternut Squash Baked",
+    "weightUnit": "Grams",
+    "weight": 130,
+    "carbohydrates": 10
+},
+{
+    "_id": "60db9d625bc2692c2093e7ff",
+    "foodCategory": "Vegetables and Pulses",
+    "foodName": "KTC Chick Peas",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 15
+},
+{
+    "_id": "60db9d6b5bc2692c2093e801",
+    "foodCategory": "Vegetables and Pulses",
+    "foodName": "Summer Pride Kidney Beans in Water",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 15
+},
+{
+    "_id": "60db9d765bc2692c2093e803",
+    "foodCategory": "Vegetables and Pulses",
+    "foodName": "Sainsburys Dried Red Lentils",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 9.6
+},
+{
+    "_id": "60db9d825bc2692c2093e805",
+    "foodCategory": "Vegetables and Pulses",
+    "foodName": "Farrows Giant Marrowfat Peas",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 14.9
+},
+{
+    "_id": "60db9d8b5bc2692c2093e807",
+    "foodCategory": "Vegetables and Pulses",
+    "foodName": "Batchelors Original Mushy Peas",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 13.1
+},
+{
+    "_id": "60db9d935bc2692c2093e809",
+    "foodCategory": "Vegetables and Pulses",
+    "foodName": "Roasted Parsnips",
+    "weightUnit": "Grams",
+    "weight": 80,
+    "carbohydrates": 15
+},
+{
+    "_id": "60db9d9d5bc2692c2093e80b",
+    "foodCategory": "Vegetables and Pulses",
+    "foodName": "Beyond Meat and Fish Plant-Based Burger Patties",
+    "weightUnit": "Grams",
+    "weight": 100,
+    "carbohydrates": 3.5
+}
+]
