@@ -1,6 +1,6 @@
-const ErrorResponse = require("../utils/errorResponse");
-const asyncHandler = require("../middleware/async");
-const Food = require("../models/Food");
+const ErrorResponse = require('../utils/errorResponse');
+const asyncHandler = require('../middleware/async');
+const Food = require('../models/Food');
 
 // @desc    Get all foods
 // @route   GET /api/v1/foods
